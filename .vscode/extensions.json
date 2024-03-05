@@ -1,0 +1,23 @@
+{
+    "recommendations": [
+        // python
+        "KevinRose.vsc-python-indent",
+        // markdown
+        "yzhang.markdown-all-in-one",
+        "bierner.markdown-preview-github-styles",
+        "bierner.markdown-shiki",
+        // verilog
+        "mshr-h.veriloghdl",
+        // git
+        "mhutchie.git-graph",
+        // others
+        "VisualStudioExptTeam.vscodeintellicode",
+        "VisualStudioExptTeam.intellicode-api-usage-examples",
+        "esbenp.prettier-vscode",
+        "streetsidesoftware.code-spell-checker",
+        // UI
+        "aaron-bond.better-comments",
+        "oderwat.indent-rainbow",
+        "PKief.material-icon-theme",
+    ]
+}
